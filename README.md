@@ -7,3 +7,4 @@
 - [Reverse String](./reverse-string)
 - [Semi Structured Logs](./semi-structured-logs)
 - [Sublist](./sublist)
+- [Gigasecond](./gigasecond)
